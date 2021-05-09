@@ -79,7 +79,7 @@ url = "mailto:wmqfred@gmail.com"
 
 #Comment Config
 [params.utterances]
-repo = "Brabalawuka/fredwu_fantactic_blog"
+repo = "wmqfred/fredwu_fantactic_blog"
 issueTerm = "pathname"
 theme= "preferred-color-scheme"
 
