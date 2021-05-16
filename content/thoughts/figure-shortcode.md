@@ -1,7 +1,7 @@
 ---
 title: 'The Figure Shortcode'
 date: 2018-03-13T21:47:41+00:00
-draft: false
+draft: true
 tags: 
   - demo
   - shortcode
